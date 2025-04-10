@@ -1,5 +1,5 @@
 const hamburger = document.querySelector(".hamburger");
-const ul = document.querySelector(".ul");
+const ul = document.querySelector(".lu");
 const regis = document.getElementById("regis");
 
 hamburger.addEventListener("click", () => {
